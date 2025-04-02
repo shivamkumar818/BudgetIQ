@@ -10,7 +10,7 @@ BudgetIQ is an AI-driven financial management platform designed to simplify and 
 - **AI-Powered Insights**: Smart budgeting, spending analysis, and predictions
 - **Real-Time Alerts**: Email notifications for budgeting and expenses
 - **Interactive Visualizations**: Dynamic charts and reports using Shadcn UI and Tailwind CSS
-- **Admin Dashboard**: Comprehensive financial oversight and analytics
+- **Admin Dashboard**: Comprehensive financial oversight and analytics .
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Next.js, Tailwind CSS, Shadcn UI
