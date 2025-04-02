@@ -39,11 +39,4 @@ npm run dev
 ```
 6. Access the app at `http://localhost:3000`
 
-## 📜 License
-This project is licensed under the MIT License.
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or create pull requests.
-
-## 📧 Contact
-For inquiries, reach out at piyusha22@outlook.com.
