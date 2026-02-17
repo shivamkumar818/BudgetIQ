@@ -22,7 +22,7 @@ BudgetIQ is an AI-driven financial management platform designed to simplify and 
 ## 🏗️ Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/PiyushaMukherjee/BudgetIQ.git
+git clone https://github.com/shivamkumar818/BudgetIQ.git
 ```
 2. Navigate to the project directory:
 ```bash
@@ -38,5 +38,6 @@ npm install
 npm run dev
 ```
 6. Access the app at `http://localhost:3000`
+
 
 
